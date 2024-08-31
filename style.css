@@ -162,9 +162,9 @@ footer {
     justify-content: center;
     background-color: white;
   }
-  .footer-follow img {
+  .footer-content {
     display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    flex-direction: column;
+    gap: 12px;
   }
 }
